@@ -77,7 +77,7 @@ Testing ideas, learning technologies and turning concepts into prototypes.
 **Main stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=lua,python,js,nodejs,c#,java,docker,linux,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,python,js,nodejs,java,docker,linux,mysql,git&theme=dark" />
 </p>
 
 **Exploring**
