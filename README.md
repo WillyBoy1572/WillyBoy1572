@@ -6,7 +6,7 @@
 
 <p align="center">
   Building scripts, tools and infrastructure where performance meets creativity.<br/>
-  Focused on FiveM development, automation, AI-assisted projects and self-hosted systems.
+  Focused on FiveM development, automation, AI system and self-hosted systems.
 </p>
 
 <p align="center">
@@ -44,7 +44,7 @@ Performance, reliability and clean systems are what I aim for.
 ### // currently building
 
 - Developing **FiveM resources** with Lua, ESX, Qbox and modern frameworks
-- Creating automation tools using **Python and AI-assisted workflows**
+- Creating automation tools using **Python**
 - Managing self-hosted environments with **Linux, Docker and databases**
 - Building community platforms and backend systems
 - Exploring **Unreal Engine 5** and multiplayer technologies
@@ -77,7 +77,7 @@ Testing ideas, learning technologies and turning concepts into prototypes.
 **Main stack**
 
 <p>
-<img src="https://skillicons.dev/icons?i=lua,python,js,nodejs,docker,linux,mysql,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=lua,python,js,nodejs,c#,java,docker,linux,mysql,git&theme=dark" />
 </p>
 
 **Exploring**
